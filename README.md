@@ -1,2 +1,7 @@
 # C490-Homework-5-solution
-C490 Homework #5 solution
+
+Download Here: [C490 Homework #5 solution](https://jarviscodinghub.com/assignment/c490-homework-5-solution/)
+
+For Custom/Original Work email jarviscodinghub@gmail.com/whatsapp +1(541)423-7793
+
+PART I (10 POINTS) Read through Chapter 2 of the textbook. Create the Welcome App following the instructions given in document Deitel.Welcome.AndroidStudio.Instrucitons.pdf in Canvas (Do Not simply import the project from source code coming with the book!). Snapshot your test-run (on an AVD or a real device), copy source code (java code and major XML files), and paste them in your submission. PART II (20 POINTS) Text book, pp68, Exercise 2.5, Scrapbooking App. Snapshot your test-run (on an AVD or a real device), copy source code (java code and major XML files), and paste them in your submission. PART III (10 POINTS) Text book, pp68, Exercise 2.7 (Scrapbooking App with Internationalization, extend it from 2.5, not 2.6). Snapshot your test-run (on an AVD or a real device), and paste them in your submission (the source code will be same as Part II, so no need to paste your source code again). WHAT TO SUBMIT: – Submit your source code (zip your project folder for each programming project) to Canvas (using the “Assignments” function). Submit a hard copy of your code and test-run output (or screenshot). Make sure that you follow the “Assignment_style-guideline_C490” or you might lose credits
